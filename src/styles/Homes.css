@@ -1,0 +1,11 @@
+p {
+  background-color: white;
+  font-size: medium;
+  text-align: center;
+  border-style: double;
+  width: 75%;
+  margin-left: 12.5%;
+}
+.myDiv {
+  margin-bottom: 50%;
+}

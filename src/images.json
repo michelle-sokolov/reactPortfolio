@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "alt": "one",
+    "image": "https://imgur.com/7r7cyUS.jpg",
+    "caption": "Hangman"
+  },
+  {
+    "id": 2,
+    "alt": "two",
+    "image": "https://imgur.com/PczMUMk.jpg",
+    "caption": "Weather Detector"
+  },
+  {
+    "id": 3,
+    "alt": "three",
+    "image": "https://imgur.com/3l7X52e.jpg",
+    "caption": "Workout Tracker"
+  },
+  {
+    "id": 4,
+    "alt": "four",
+    "image": "https://imgur.com/3kVtBCm.jpg",
+    "caption": "Password Generator"
+  },
+  {
+    "id": 5,
+    "alt": "five",
+    "image": "https://imgur.com/4dQNI3C.jpg",
+    "caption": "Scheduler"
+  },
+  {
+    "id": 6,
+    "alt": "six",
+    "image": "https://imgur.com/7r7cyUS.jpg",
+    "caption": "Hangman"
+  }
+]

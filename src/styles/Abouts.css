@@ -1,0 +1,13 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  align-items: center;
+  background-color: lightpink;
+}
+p {
+  background-color: white;
+  font-size: medium;
+  text-align: center;
+  border-style: double;
+  width: 75%;
+  margin-left: 12.5%;
+}
